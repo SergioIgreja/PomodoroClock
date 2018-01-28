@@ -12,3 +12,18 @@ cada tarefa tem um número estimado de pomodoros.
 
 Para executar este programa basta correr num terminal, assumindo que 
 tem python 3.x instalado, o comando python main.py
+
+
+
+A adicionar:
+
+  - Caso seja preciso mais tempo para terminar uma tarefa tem de
+  ser dada uma hipótese para aumenter o número de pomodoros para 
+  não passar para a proxima tarefa.
+  
+  - Caso a tarefa seja terminada com menos pomodoros do que o
+  esperado, dar a possibilidade de passar para a próxima tarefa
+  
+  - Criação de uma GUI para facilitar o processo para pessoas que
+  não utilizam terminal e para dar uma experiência de utilização 
+  mais agradável
