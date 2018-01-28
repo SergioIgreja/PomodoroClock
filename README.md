@@ -11,4 +11,4 @@ cada tarefa tem um número estimado de pomodoros.
 
 
 Para executar este programa basta correr num terminal, assumindo que 
-tem python 3.x instalado, o comando -- python main.py --
+tem python 3.x instalado, o comando python main.py
